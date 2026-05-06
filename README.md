@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+## About Me<br><br>Hi, I’m Siddharth — a full-stack developer focused on building scalable backend systems, API-driven platforms, and automation-based applications.<br><br>I specialize in combining strong backend logic with modern frontend frameworks and real-world integration systems.<br><br>---<br><br>### 🚀 What I Do<br><br>* Build secure and scalable backend systems<br>* Develop API-driven applications<br>* Create automation workflows and bot systems<br>* Design full-stack applications with Angular frontend + Java/Python backend<br><br>---<br><br>### 💻 Technical Skills<br><br>#### 🧠 Core Programming<br><br>* **Java (Advanced)**<br><br>  * OOP (Object-Oriented Programming)<br>  * Collections Framework<br>  * Exception Handling<br>  * Multithreading (Basics)<br>  * File Handling<br><br>* **Python (Advanced)**<br><br>* **C (Fundamentals)**<br><br>---<br><br>#### ☕ Java Backend Development<br><br>* Spring Boot (REST APIs)<br>* JPA / Hibernate (Database ORM)<br>* Kafka (Event-based communication – learning)<br>* Microservices basics<br>* API development & integration<br><br>---<br><br>#### 🌐 Frontend Development<br><br>* **Angular (Intermediate / Growing)**<br><br>  * Components & Modules<br>  * Services & Dependency Injection<br>  * Routing<br>  * API Integration (HTTP Client)<br><br>* HTML5<br><br>* CSS3<br><br>* JavaScript<br><br>---<br><br>#### 🔗 API Development & Testing<br><br>* REST API design<br>* JSON-based communication<br>* API integration (Frontend ↔ Backend ↔ Bots)<br>* **API Testing Tools:**<br><br>  * Postman (Request testing, collections)<br>  * Debugging APIs & response validation<br><br>---<br><br>#### ⚙️ Backend & Tools<br><br>* Flask (Python APIs)<br>* PHP (Token systems & redirects)<br>* MySQL (Database design)<br>* Docker (Containerization)<br>* GitHub (Version control)<br>* Render / PythonAnywhere (Deployment)<br><br>---<br><br>### 🔄 Integration & Automation<br><br>* Website ↔ Backend ↔ Bot integration<br>* Token-based authentication systems<br>* Ad-based monetization workflows<br>* Short link systems (BharatLinks, etc.)<br><br>---<br><br>### 📦 Projects<br><br>* Full Telegram bot with token-based access (24-hour system)<br>* Java/Spring Boot API services<br>* Angular frontend integrated with backend APIs<br>* Ad-based token refresh system (PHP + Flask + MySQL)<br><br>---<br><br>### 📈 Currently Improving<br><br>* Advanced Angular (UI + performance)<br>* Spring Boot microservices<br>* Kafka event streaming<br>* Scalable system design<br><br>---<br><br>### 🎯 Goal<br><br>To become a strong full-stack developer by mastering Java backend systems, Angular frontend, and scalable API architecture.<br><br>---<br><br>💬 Code. Build. Scale. Repeat.<br>
 
-<!--
-**Siddhu-SP79/Siddhu-SP79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddharthph12@gmail.com) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Siddhu-SP79&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Siddhu-SP79&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Siddhu-SP79&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://komarev.com/ghpvc/?username=Siddhu-SP79&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
