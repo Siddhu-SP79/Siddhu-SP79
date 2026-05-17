@@ -78,5 +78,14 @@ To master scalable backend architectures and modern full-stack web patterns, bri
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddhu-sp79&show_icons=true&theme=radical" alt="Siddharth's GitHub Stats" />
+  <!-- Contribution Stats Card -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Siddhu-SP79&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Siddharth's GitHub Stats" height="180px" />
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Siddhu-SP79&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <!-- Streak Stats Card (Bypasses the broken proxy completely) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhu-SP79&theme=tokyonight&hide_border=true" alt="Siddharth's GitHub Streak" />
 </div>
