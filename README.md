@@ -2,57 +2,58 @@
 
 **Full-Stack Developer | Backend Systems | API Architecture**
 
-I am a developer focused on building scalable backend systems, API-driven platforms, and automation workflows. I specialize in combining strong backend logic with modern frontend frameworks to build secure, real-world applications. 
+I am a software developer focused on building scalable backend architectures, robust API-driven platforms, and secure automation workflows. I specialize in bridging powerful backend logic with modern frontend frameworks to deliver seamless, production-ready software solutions.
 
 ---
 
 ### 🚀 What I Do
 
-- 🔐 **Backend Systems:** Build secure, high-performance, and scalable architectures.
-- 🔌 **API Development:** Design and integrate robust RESTful APIs (Frontend ↔ Backend ↔ Bots).
-- 🤖 **Automation & Bots:** Create token-based authentication workflows and Telegram bot systems.
-- 💻 **Full-Stack:** Seamlessly connect Angular frontends with Java and Python backends.
+*   🔐 **Backend Engineering:** Architecting secure, high-performance, and type-safe systems.
+*   🔌 **API Design:** Building and integrating structured RESTful APIs across services, clients, and bots.
+*   🤖 **Automation Ecosystems:** Engineering secure token-based authentication pipelines and interactive bot infrastructures.
+*   💻 **Full-Stack Integration:** Creating unified applications with Angular on the frontend and Java or Python on the backend.
 
 ---
 
 ### 💻 Tech Stack
 
-**🧠 Backend & Core Programming**
-- **Java:** Advanced OOP, Collections, Multithreading, File Handling
-- **Frameworks:** Spring Boot (REST APIs), JPA / Hibernate
-- **Python:** Advanced Python, Flask APIs
-- **Other:** C (Fundamentals), PHP (Token systems & redirects)
+#### 🧠 Backend & Core Programming
+*   **Languages:** Java (Advanced OOP, Collections, Exception Handling, File I/O), Python, C, PHP
+*   **Frameworks:** Spring Boot, Spring Data JPA, Hibernate, Flask
 
-**🌐 Frontend Development**
-- **Angular:** Components, Services & DI, Routing, HTTP Client
-- **Core Web:** HTML5, CSS3, JavaScript
+#### 🌐 Frontend Development
+*   **Framework:** Angular (Components, Modules, Services, DI, Routing, HTTP Client)
+*   **Core Web:** HTML5, CSS3, JavaScript, TypeScript
 
-**🔗 APIs, DBs & Tools**
-- **Databases:** MySQL
-- **API Tools:** Postman (Request testing, debugging, response validation)
-- **DevOps & Tools:** Docker, Git/GitHub, Render, PythonAnywhere
+#### 🔗 Databases, DevOps & Tools
+*   **Databases:** MySQL, Oracle SQL, H2
+*   **Event Streaming:** Apache Kafka *(Learning & Integrating)*
+*   **Tools & Deployment:** Docker, Git/GitHub, Postman, Maven, Linux, Render, PythonAnywhere
 
 ---
 
 ### 📦 Featured Projects
 
-- **Telegram Automation System:** A full bot built with token-based access control and a 24-hour expiry system.
-- **Token Refresh Platform:** An ad-based token refresh system and monetization workflow built with PHP, Flask, and MySQL.
-- **Full-Stack Web Apps:** Interactive Angular frontends tightly integrated with Java/Spring Boot backend API services.
+*   🤖 **EduGateBot: Smart Access Control**
+    *   *Stack:* Python, Flask, MySQL, Docker, Telegram API
+    *   *Features:* Built a secure content delivery platform using automated token verification with a strict 24-hour access expiry mechanism.
+*   🏨 **Hotel & Bar POS Management System**
+    *   *Stack:* Java, Core Swing, JDBC, MySQL
+    *   *Features:* Engineered an ACID-compliant desktop point-of-sale layout handling concurrent data updates, live billing tracking, and stock inventory logging.
 
 ---
 
-### 🌱 Currently Improving On
+### 🌱 Current Focus Areas
 
-- Advanced Angular (UI patterns and performance optimization)
-- Spring Boot microservices
-- Kafka event streaming
-- Scalable system design and architecture
+*   Enterprise-grade Spring Boot Microservices
+*   Kafka event-driven streaming and message queues
+*   Advanced Angular state management and UI optimization
+*   Distributed system design paradigms
 
 ---
 
-### 🎯 My Goal
-To become a strong full-stack developer by mastering Java backend systems, Angular frontend, and scalable API architecture.
+### 🎯 Objective
+To master scalable backend architectures and modern full-stack web patterns, bridging technical efficiency with clean user interfaces.
 
 ---
 
@@ -60,19 +61,23 @@ To become a strong full-stack developer by mastering Java backend systems, Angul
 
 💬 *Code. Build. Scale. Repeat.*
 
-<!-- Replace the '#' with your actual profile links -->
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/siddharth-phadatare)
-[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:siddharthph12@gmail.com)
-
-<br />
-<br />
+<p left="align">
+  <a href="https://linkedin.com/in/siddharth-phadatare" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:siddharthph12@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Siddhu-SP79" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
-<!-- These cards will automatically fetch your stats if your GitHub username is Siddhu-SP79 -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddhu-SP79&show_icons=true&theme=transparent&hide_border=true" alt="Siddharth's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhu-SP79&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Siddhu-SP79&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Siddharth's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhu-SP79&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
 </div>
