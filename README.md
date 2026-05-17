@@ -1,15 +1,78 @@
-# 💫 About Me:
-## About Me<br><br>Hi, I’m Siddharth — a full-stack developer focused on building scalable backend systems, API-driven platforms, and automation-based applications.<br><br>I specialize in combining strong backend logic with modern frontend frameworks and real-world integration systems.<br><br>---<br><br>### 🚀 What I Do<br><br>* Build secure and scalable backend systems<br>* Develop API-driven applications<br>* Create automation workflows and bot systems<br>* Design full-stack applications with Angular frontend + Java/Python backend<br><br>---<br><br>### 💻 Technical Skills<br><br>#### 🧠 Core Programming<br><br>* **Java (Advanced)**<br><br>  * OOP (Object-Oriented Programming)<br>  * Collections Framework<br>  * Exception Handling<br>  * Multithreading (Basics)<br>  * File Handling<br><br>* **Python (Advanced)**<br><br>* **C (Fundamentals)**<br><br>---<br><br>#### ☕ Java Backend Development<br><br>* Spring Boot (REST APIs)<br>* JPA / Hibernate (Database ORM)<br>* Kafka (Event-based communication – learning)<br>* Microservices basics<br>* API development & integration<br><br>---<br><br>#### 🌐 Frontend Development<br><br>* **Angular (Intermediate / Growing)**<br><br>  * Components & Modules<br>  * Services & Dependency Injection<br>  * Routing<br>  * API Integration (HTTP Client)<br><br>* HTML5<br><br>* CSS3<br><br>* JavaScript<br><br>---<br><br>#### 🔗 API Development & Testing<br><br>* REST API design<br>* JSON-based communication<br>* API integration (Frontend ↔ Backend ↔ Bots)<br>* **API Testing Tools:**<br><br>  * Postman (Request testing, collections)<br>  * Debugging APIs & response validation<br><br>---<br><br>#### ⚙️ Backend & Tools<br><br>* Flask (Python APIs)<br>* PHP (Token systems & redirects)<br>* MySQL (Database design)<br>* Docker (Containerization)<br>* GitHub (Version control)<br>* Render / PythonAnywhere (Deployment)<br><br>---<br><br>### 🔄 Integration & Automation<br><br>* Website ↔ Backend ↔ Bot integration<br>* Token-based authentication systems<br>* Ad-based monetization workflows<br>* Short link systems (BharatLinks, etc.)<br><br>---<br><br>### 📦 Projects<br><br>* Full Telegram bot with token-based access (24-hour system)<br>* Java/Spring Boot API services<br>* Angular frontend integrated with backend APIs<br>* Ad-based token refresh system (PHP + Flask + MySQL)<br><br>---<br><br>### 📈 Currently Improving<br><br>* Advanced Angular (UI + performance)<br>* Spring Boot microservices<br>* Kafka event streaming<br>* Scalable system design<br><br>---<br><br>### 🎯 Goal<br><br>To become a strong full-stack developer by mastering Java backend systems, Angular frontend, and scalable API architecture.<br><br>---<br><br>💬 Code. Build. Scale. Repeat.<br>
+# Hi there, I'm Siddharth 👋
 
+**Full-Stack Developer | Backend Systems | API Architecture**
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddharthph12@gmail.com) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Siddhu-SP79&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Siddhu-SP79&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Siddhu-SP79&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I am a developer focused on building scalable backend systems, API-driven platforms, and automation workflows. I specialize in combining strong backend logic with modern frontend frameworks to build secure, real-world applications. 
 
 ---
-[![](https://komarev.com/ghpvc/?username=Siddhu-SP79&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 What I Do
+
+- 🔐 **Backend Systems:** Build secure, high-performance, and scalable architectures.
+- 🔌 **API Development:** Design and integrate robust RESTful APIs (Frontend ↔ Backend ↔ Bots).
+- 🤖 **Automation & Bots:** Create token-based authentication workflows and Telegram bot systems.
+- 💻 **Full-Stack:** Seamlessly connect Angular frontends with Java and Python backends.
+
+---
+
+### 💻 Tech Stack
+
+**🧠 Backend & Core Programming**
+- **Java:** Advanced OOP, Collections, Multithreading, File Handling
+- **Frameworks:** Spring Boot (REST APIs), JPA / Hibernate
+- **Python:** Advanced Python, Flask APIs
+- **Other:** C (Fundamentals), PHP (Token systems & redirects)
+
+**🌐 Frontend Development**
+- **Angular:** Components, Services & DI, Routing, HTTP Client
+- **Core Web:** HTML5, CSS3, JavaScript
+
+**🔗 APIs, DBs & Tools**
+- **Databases:** MySQL
+- **API Tools:** Postman (Request testing, debugging, response validation)
+- **DevOps & Tools:** Docker, Git/GitHub, Render, PythonAnywhere
+
+---
+
+### 📦 Featured Projects
+
+- **Telegram Automation System:** A full bot built with token-based access control and a 24-hour expiry system.
+- **Token Refresh Platform:** An ad-based token refresh system and monetization workflow built with PHP, Flask, and MySQL.
+- **Full-Stack Web Apps:** Interactive Angular frontends tightly integrated with Java/Spring Boot backend API services.
+
+---
+
+### 🌱 Currently Improving On
+
+- Advanced Angular (UI patterns and performance optimization)
+- Spring Boot microservices
+- Kafka event streaming
+- Scalable system design and architecture
+
+---
+
+### 🎯 My Goal
+To become a strong full-stack developer by mastering Java backend systems, Angular frontend, and scalable API architecture.
+
+---
+
+### 📫 Let's Connect!
+
+💬 *Code. Build. Scale. Repeat.*
+
+<!-- Replace the '#' with your actual profile links -->
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/siddharth-phadatare)
+[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:siddharthph12@gmail.com)
+
+<br />
+<br />
+
+---
+
+### 📊 GitHub Stats
+
+<!-- These cards will automatically fetch your stats if your GitHub username is Siddhu-SP79 -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Siddhu-SP79&show_icons=true&theme=transparent&hide_border=true" alt="Siddharth's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhu-SP79&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+</div>
